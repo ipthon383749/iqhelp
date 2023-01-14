@@ -1,6 +1,6 @@
 {"name": "سورس تليثون العرب سكالينجو","description": "تنصيب سورس تليثون العرب مجانا على منصة سكالينجو","addons": ["scalingo-postgresql"],"keywords": ["userbot","scalingo","iqyhon"],"repository": "https://github.com/iqhelp/iqhelp","stack": "container",
-    "env": {
-        "ALIVE_NAME": {"description": "ضع هنا اسم حسابك على التليجرام","required": true,"value":""},
+    "البيئة" 
+        "ALIVE_NAME" : { "الوصف" : "ضع هنا اسم حسابك على التليجرام"     ،     "مطلوب" : صحيح     ،     "قيمة" : "" } ،
         "APP_ID": {"description": "ضع هنا الايبي ايدي","required": true,"value":""},
         "API_HASH": {"description": "ضع هنا الايبي هاش","required": true,"value":""},
         "STRING_SESSION": {"description": "هنا ضع كود تيرمكس","required": true},
